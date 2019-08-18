@@ -1,3 +1,4 @@
+add_executable(815 815.cpp)
 add_executable(820 820.cpp)
 add_executable(830 830.cpp)
 add_executable(835 835.cpp)
